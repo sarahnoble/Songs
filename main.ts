@@ -1,0 +1,11 @@
+input.onButtonPressed(Button.A, function () {
+    music.playMelody("D D A A G F E D ", 120)
+    music.playMelody("C D E F G A D D ", 120)
+    music.playMelody("A A G F E D C D ", 120)
+    music.playMelody("- - - - - - - - ", 120)
+    music.playMelody("E E E - E E E E ", 120)
+    music.playMelody("E G C D E F F F ", 120)
+    music.playMelody("F E E E E D D E ", 120)
+    music.playMelody("D G E E E - E E ", 120)
+    music.playMelody("E G G F D C - C5 ", 120)
+})
